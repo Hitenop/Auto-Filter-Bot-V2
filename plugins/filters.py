@@ -7,7 +7,7 @@ import re
 import pyrogram
 
 from pyrogram import (
-    filters,
+    filtegfgf
     Client
 )
 
